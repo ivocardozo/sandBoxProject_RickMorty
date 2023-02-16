@@ -1,0 +1,9 @@
+.control button {
+  padding: 8px;
+  margin: 6px;
+}
+
+.container p {
+  font-weight: bold;
+  height: 120px;
+}
